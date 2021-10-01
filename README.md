@@ -1,2 +1,2 @@
 # Basic_Registration
- This cde basically records the personal data of an unspecified number of people.
+ This algoritm will basically record data of an unspecified number of people on Python and instantly update it on a MySQL table.
